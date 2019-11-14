@@ -8,6 +8,7 @@ def map(source_array)
   end 
   return new
 end
+<<<<<<< HEAD
 
 def reduce(source_array, starting_value = nil)
   if starting_value
@@ -25,3 +26,5 @@ def reduce(source_array, starting_value = nil)
   
   sum
 end
+=======
+>>>>>>> 0d24ce8b84caef4e343ff8cb84f971def1ade5bd
